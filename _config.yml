@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://github.com/yantinglai
 date_format: "ordinal"
-title: Chill Haus
+title: yantinglai
 subtitle: "Sundri's Blog"
 description: "My Leetcode Record Place"
 keywords: Sundri, Sundri Lai, lucky, NEU, CS Align, Dancer
